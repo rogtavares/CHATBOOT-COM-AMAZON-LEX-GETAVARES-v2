@@ -1,6 +1,3 @@
-
-Criando um Chatbot com o Amazon Lex
-
 Repositório para treinar a criação de um chatbot com Amazon Lex
 Ge Tavares
 
