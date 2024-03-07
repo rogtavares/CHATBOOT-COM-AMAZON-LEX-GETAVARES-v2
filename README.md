@@ -4,6 +4,7 @@ Criando um Chatbot com o Amazon Lex
 Repositório para treinar a criação de um chatbot com Amazon Lex
 Ge Tavares
 
+
 ## Serviços utilizados
 
 - Amazon Lex
@@ -76,9 +77,10 @@ Ge Tavares
 - Build
 - Test
 
+
 SUCESSO !!! 
 
 
 link: https://encurtador.com.br/cehj8
 
-Ge Tavares . V3
+Ge Tavares . V4
